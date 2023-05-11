@@ -1,0 +1,78 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Latex template for abstracts
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Formulario latex para resumos
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}
+
+
+\begin{document}
+\thispagestyle{empty}
+\newcommand{\titulo}[1]{{\large\bf #1}}
+\newcommand{\nome}[1]{{\large #1}}
+\newcommand{\instituicao}[1]{#1}
+\newcommand{\resumo}[1]{#1}
+\newcommand{\ack}[1]{\textbf{Acknowlegments:} #1}
+\newcommand{\funding}[1]{\textbf{Funding:} #1}
+
+\renewcommand{\refname}{\normalsize References}
+
+%%%
+% Write the title of the seminar-activity 
+% Indique o titulo do seminario-atividade 
+%%%
+\noindent
+\titulo{Title of the talk/poster contribution}
+
+\bigskip
+
+%%%
+% Write your own name
+% Indique o seu nome
+%%%
+\noindent
+\nome{Name of the speaker}\\
+\noindent
+
+%%%
+% Write your institutional affiliation
+% Indique a sua instituicao de origem
+%%%
+\noindent
+\instituicao{Name of the institution of the speaker}\\
+
+%%%
+% Write a short abstract of your talk (50-100 words)
+% Escreva um resumo da sua palestra (50-100 palavras)
+%%%
+
+\noindent
+\resumo{\newline 
+In this talk...
+}\\
+
+\bigskip
+%------
+% Insert acknowledgments and information
+% regarding funding at the end of the last
+% section, i.e., right before the bibliography.
+%------
+
+\noindent
+\ack{I thank... }\\
+
+ 
+\noindent
+\funding{This work was  supported by ... }
+
+
+\begin{thebibliography}{99}%(if needed)
+\normalsize
+\bibitem{?} {\sc { Surname, Name and Surname, Name}}: {\it title of article}, { Journal's name, number, issue, pages range (year).}
+
+\end{thebibliography}
+
+\end{document}
