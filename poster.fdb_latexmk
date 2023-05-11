@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1683845704 "c:/Users/Lucas Stefano/Documents/xviclapem-poster/poster.tex" "poster.pdf" "poster" 1683845705 0
+["pdflatex"] 1683847943 "c:/Users/Lucas Stefano/Documents/xviclapem-poster/poster.tex" "poster.pdf" "poster" 1683847944 0
   "C:/Users/Lucas Stefano/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1683845700 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Lucas Stefano/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1683845689 23182772 1b20539543125b245b207fe48794de87 ""
   "C:/Users/Lucas Stefano/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -26,9 +26,9 @@
   "C:/Users/Lucas Stefano/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1669844196 5048 84b05796b49b69e2d4257d537721c960 ""
   "C:/Users/Lucas Stefano/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1669844196 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
   "C:/Users/Lucas Stefano/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1680182075 29768 5600b3a98028e2e01b60e7f98fbf4b9c ""
-  "c:/Users/Lucas Stefano/Documents/xviclapem-poster/poster.tex" 1683844915 1795 f4de3747dc595afd6037a6f2d509b0cf ""
-  "poster.aux" 1683845704 47 1131ff661f355ca302aabd5250ebfe53 "pdflatex"
-  "poster.tex" 1683844915 1795 f4de3747dc595afd6037a6f2d509b0cf ""
+  "c:/Users/Lucas Stefano/Documents/xviclapem-poster/poster.tex" 1683847942 2491 7fde6f7560db90369791e254e2ef5364 ""
+  "poster.aux" 1683847944 47 1131ff661f355ca302aabd5250ebfe53 "pdflatex"
+  "poster.tex" 1683847942 2491 7fde6f7560db90369791e254e2ef5364 ""
   (generated)
   "poster.aux"
   "poster.log"
